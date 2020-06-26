@@ -5,6 +5,6 @@ This game and the source code are available under CC-BY-SA 3.0 (http://creativec
 
 Requirements:
 
-* UnrealEngine 4.5.1
+* Unreal Engine 4.25.1
 * GIMP 2.10.20
 * Blender 2.83
