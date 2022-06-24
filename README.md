@@ -6,5 +6,5 @@ This game and the source code are available under CC-BY-SA 3.0 (http://creativec
 Requirements:
 
 * Unity 2022.3.28f1
-* Adobe Photoshop CC 2022
+* Adobe Photoshop 2022
 * Blender 3.0
